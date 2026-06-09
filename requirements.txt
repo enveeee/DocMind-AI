@@ -12,5 +12,5 @@ python-dotenv==1.1.0
 fastapi==0.115.12
 uvicorn==0.34.0
 python-multipart==0.0.20
-torch==2.6.0
+torch
 fpdf2==2.8.1
